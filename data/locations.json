@@ -1,0 +1,857 @@
+[
+  {
+    "name": "Arctic Antics Power Crystal",
+    "region": "Earth",
+    "category": [
+      "1 - Earth VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Arctic Antics Box Gem",
+    "region": "Earth",
+    "category": [
+      "1 - Earth VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Arctic Antics Death Route",
+    "region": "Earth",
+    "category": [
+      "1 - Earth VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Arctic Antics Time Trial",
+    "region": "Lab",
+    "category": [
+      "7 - Time Trials"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tornado Alley Power Crystal",
+    "region": "Earth",
+    "category": [
+      "1 - Earth VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tornado Alley Box Gem",
+    "region": "Earth",
+    "category": [
+      "1 - Earth VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tornado Alley Time Trial",
+    "region": "Lab",
+    "category": [
+      "7 - Time Trials"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bamboozled Power Crystal",
+    "region": "Earth",
+    "category": [
+      "1 - Earth VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bamboozled Box Gem",
+    "region": "Earth",
+    "category": [
+      "1 - Earth VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bamboozled Time Trial",
+    "region": "Lab",
+    "category": [
+      "7 - Time Trials"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Wizards and Lizards Power Crystal",
+    "region": "Earth",
+    "category": [
+      "1 - Earth VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Wizards and Lizards Box Gem",
+    "region": "Earth",
+    "category": [
+      "1 - Earth VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Wizards and Lizards Death Route",
+    "category": [
+      "1 - Earth VR Hub"
+    ],
+    "requires": [],
+    "region": "Earth"
+  },
+  {
+    "name": "Wizards and Lizards Time Trial",
+    "region": "Lab",
+    "category": [
+      "7 - Time Trials"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Compactor Reactor Power Crystal",
+    "region": "Earth",
+    "category": [
+      "1 - Earth VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Compactor Reactor Box Gem",
+    "region": "Earth",
+    "category": [
+      "1 - Earth VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Compactor Reactor Yellow Gem Path",
+    "region": "Earth",
+    "category": [
+      "1 - Earth VR Hub"
+    ],
+    "requires": "|Yellow Colored Gem| AND |Power Crystal:20|"
+  },
+  {
+    "name": "Compactor Reactor Time Trial",
+    "region": "Lab",
+    "category": [
+      "7 - Time Trials"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Rumble in the Roks",
+    "region": "Earth",
+    "category": [
+      "1 - Earth VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Jungle Rumble Power Crystal",
+    "region": "Water",
+    "category": [
+      "2 - Water VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Jungle Rumble Box Gem",
+    "region": "Water",
+    "category": [
+      "2 - Water VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Jungle Rumble Time Trial",
+    "region": "Lab",
+    "category": [
+      "7 - Time Trials"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sea Shell Shenanigans Power Crystal",
+    "region": "Water",
+    "category": [
+      "2 - Water VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sea Shell Shenanigans Box Gem",
+    "region": "Water",
+    "category": [
+      "2 - Water VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sea Shell Shenanigans Time Trial",
+    "region": "Lab",
+    "category": [
+      "7 - Time Trials"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Banzai Bonsai Power Crystal",
+    "region": "Water",
+    "category": [
+      "2 - Water VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Banzai Bonsai Box Gem",
+    "region": "Water",
+    "category": [
+      "2 - Water VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Banzai Bonsai Red Gem Path",
+    "region": "Water",
+    "category": [
+      "2 - Water VR Hub"
+    ],
+    "requires": "|Red Colored Gem| AND |Power Crystal:20|"
+  },
+  {
+    "name": "Banzai Bonsai Time Trial",
+    "region": "Lab",
+    "category": [
+      "7 - Time Trials"
+    ],
+    "requires": []
+  },
+  {
+    "name": "That Sinking Feeling Power Crystal",
+    "region": "Water",
+    "category": [
+      "2 - Water VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "That Sinking Feeling Box Gem",
+    "region": "Water",
+    "category": [
+      "2 - Water VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "That Sinking Feeling Time Trial",
+    "region": "Lab",
+    "category": [
+      "7 - Time Trials"
+    ],
+    "requires": []
+  },
+  {
+    "name": "H2 Oh No Power Crystal",
+    "region": "Water",
+    "category": [
+      "2 - Water VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "H2 Oh No Box Gem",
+    "region": "Water",
+    "category": [
+      "2 - Water VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "H2 Oh No Time Trial",
+    "region": "Lab",
+    "category": [
+      "7 - Time Trials"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Drain Damage",
+    "region": "Water",
+    "category": [
+      "2 - Water VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Gauntlet Power Crystal",
+    "region": "Fire",
+    "category": [
+      "3 - Fire VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Gauntlet Box Gem",
+    "region": "Fire",
+    "category": [
+      "3 - Fire VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Gauntlet Death Route",
+    "region": "Fire",
+    "category": [
+      "3 - Fire VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Gauntlet Time Trial",
+    "region": "Lab",
+    "category": [
+      "7 - Time Trials"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tsunami Power Crystal",
+    "region": "Fire",
+    "category": [
+      "3 - Fire VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tsunami Box Gem",
+    "region": "Fire",
+    "category": [
+      "3 - Fire VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tsunami Blue Gem Path",
+    "region": "Fire",
+    "category": [
+      "3 - Fire VR Hub"
+    ],
+    "requires": "|Blue Colored Gem|"
+  },
+  {
+    "name": "Tsunami Time Trial",
+    "region": "Lab",
+    "category": [
+      "7 - Time Trials"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Smokey and the Bandicoot Power Crystal",
+    "region": "Fire",
+    "category": [
+      "3 - Fire VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Smokey and the Bandicoot Box Gem",
+    "region": "Fire",
+    "category": [
+      "3 - Fire VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Smokey and the Bandicoot Time Trial",
+    "region": "Lab",
+    "category": [
+      "7 - Time Trials"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Eskimo Roll Power Crystal",
+    "region": "Fire",
+    "category": [
+      "3 - Fire VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Eskimo Roll Box Gem",
+    "region": "Fire",
+    "category": [
+      "3 - Fire VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Eskimo Roll Time Trial",
+    "region": "Lab",
+    "category": [
+      "7 - Time Trials"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Fahrenheit Frenzy Power Crystal",
+    "region": "Fire",
+    "category": [
+      "3 - Fire VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Fahrenheit Frenzy Box Gem",
+    "region": "Fire",
+    "category": [
+      "3 - Fire VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Fahrenheit Frenzy Time Trial",
+    "region": "Lab",
+    "category": [
+      "7 - Time Trials"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Crashes to Ashes",
+    "region": "Fire",
+    "category": [
+      "3 - Fire VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Avalanche Power Crystal",
+    "region": "Air",
+    "category": [
+      "4 - Air VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Avalanche Box Gem",
+    "region": "Air",
+    "category": [
+      "4 - Air VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Avalanche Clear All Flag Gates",
+    "region": "Air",
+    "category": [
+      "4 - Air VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Avalanche Time Trials",
+    "region": "Lab",
+    "category": [
+      "7 - Time Trials"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Droid Void Power Crystal",
+    "region": "Air",
+    "category": [
+      "4 - Air VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Droid Void Box Gem",
+    "region": "Air",
+    "category": [
+      "4 - Air VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Droid Void Purple Gem Path",
+    "region": "Air",
+    "category": [
+      "4 - Air VR Hub"
+    ],
+    "requires": "|Purple Colored Gem|"
+  },
+  {
+    "name": "Droid Void Time Trial",
+    "region": "Lab",
+    "category": [
+      "7 - Time Trials"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Crashteroids Power Crystal",
+    "region": "Air",
+    "category": [
+      "4 - Air VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Crashteroids Box Gem",
+    "region": "Air",
+    "category": [
+      "4 - Air VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Crashteroids Time Trial",
+    "region": "Lab",
+    "category": [
+      "7 - Time Trials"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Coral Canyon Power Crystal",
+    "region": "Air",
+    "category": [
+      "4 - Air VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Coral Canyon Box Gem",
+    "region": "Air",
+    "category": [
+      "4 - Air VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Coral Canyon Time Trial",
+    "region": "Lab",
+    "category": [
+      "7 - Time Trials"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Weathering Heights Power Crystal",
+    "region": "Air",
+    "category": [
+      "4 - Air VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Weathering Heights Box Gem",
+    "region": "Air",
+    "category": [
+      "4 - Air VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Weathering Heights Time Trial",
+    "region": "Lab",
+    "category": [
+      "7 - Time Trials"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Atmospheric Pressure",
+    "region": "Air",
+    "category": [
+      "4 - Air VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Crash and Burn Power Crystal",
+    "region": "Space",
+    "category": [
+      "5 - Space VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Crash and Burn Box Gem",
+    "region": "Space",
+    "category": [
+      "5 - Space VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Crash and Burn Death Route",
+    "region": "Space",
+    "category": [
+      "5 - Space VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Crash and Burn Time Trial",
+    "region": "Lab",
+    "category": [
+      "7 - Time Trials"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Gold Rush Power Crystal",
+    "region": "Space",
+    "category": [
+      "5 - Space VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Gold Rush Box Gem",
+    "region": "Space",
+    "category": [
+      "5 - Space VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Gold Rush Death Route",
+    "region": "Space",
+    "category": [
+      "5 - Space VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Gold Rush Time Trial",
+    "region": "Lab",
+    "category": [
+      "7 - Time Trials"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Medieval Madness Power Crystal",
+    "region": "Space",
+    "category": [
+      "5 - Space VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Medieval Madness Box Gem",
+    "region": "Space",
+    "category": [
+      "5 - Space VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Medieval Madness Time Trial",
+    "region": "Lab",
+    "category": [
+      "7 - Time Trials"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Crate Balls of Fire Power Crystal",
+    "region": "Space",
+    "category": [
+      "5 - Space VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Crate Balls of Fire Box Gem",
+    "region": "Space",
+    "category": [
+      "5 - Space VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Crate Balls of Fire Time Trial",
+    "region": "Lab",
+    "category": [
+      "7 - Time Trials"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cortex Vortex Power Crystal",
+    "region": "Space",
+    "category": [
+      "5 - Space VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cortex Vortex Box Gem",
+    "region": "Space",
+    "category": [
+      "5 - Space VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cortex Vortex Green Gem Path",
+    "region": "Space",
+    "category": [
+      "5 - Space VR Hub"
+    ],
+    "requires": "|Green Colored Gem|"
+  },
+  {
+    "name": "Cortex Vortex Time Trial",
+    "region": "Lab",
+    "category": [
+      "7 - Time Trials"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Crunch Time",
+    "region": "Space",
+    "category": [
+      "5 - Space VR Hub"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Victory",
+    "region": "Lab",
+    "victory": true,
+    "category": [],
+    "requires": []
+  },
+  {
+    "name": "Knight Time Hidden Gem Above Spikes",
+    "region": "Lab",
+    "category": [
+      "6 - Lab VR Hub"
+    ],
+    "requires": "|Relic:5|"
+  },
+  {
+    "name": "Knight Time Box Gem",
+    "region": "Lab",
+    "category": [
+      "6 - Lab VR Hub"
+    ],
+    "requires": "|Relic:5|"
+  },
+  {
+    "name": "Knight Time Time Trial",
+    "region": "Lab",
+    "category": [
+      "7 - Time Trials"
+    ],
+    "requires": "|Relic:5|"
+  },
+  {
+    "name": "Ghost Town Win the Race",
+    "region": "Lab",
+    "category": [
+      "6 - Lab VR Hub"
+    ],
+    "requires": "|Relic:10|"
+  },
+  {
+    "name": "Ghost Town Box Gem",
+    "region": "Lab",
+    "category": [
+      "6 - Lab VR Hub"
+    ],
+    "requires": "|Relic:10|"
+  },
+  {
+    "name": "Ghost Town Time Trial",
+    "region": "Lab",
+    "category": [
+      "7 - Time Trials"
+    ],
+    "requires": "|Relic:10|"
+  },
+  {
+    "name": "Ice Station Bandicoot Win the Race",
+    "region": "Lab",
+    "category": [
+      "6 - Lab VR Hub"
+    ],
+    "requires": "|Relic:15|"
+  },
+  {
+    "name": "Ice Station Bandicoot Box Gem",
+    "region": "Lab",
+    "category": [
+      "6 - Lab VR Hub"
+    ],
+    "requires": "|Relic:15|"
+  },
+  {
+    "name": "Ice Station Bandicoot Time Trial",
+    "region": "Lab",
+    "category": [
+      "7 - Time Trials"
+    ],
+    "requires": "|Relic:15|"
+  },
+  {
+    "name": "Solar Bowler Hidden Gem End of Path",
+    "region": "Lab",
+    "category": [
+      "6 - Lab VR Hub"
+    ],
+    "requires": "|Relic:20|"
+  },
+  {
+    "name": "Solar Bowler Box Gem",
+    "region": "Lab",
+    "category": [
+      "6 - Lab VR Hub"
+    ],
+    "requires": "|Relic:20|"
+  },
+  {
+    "name": "Solar Bowler Time Trial",
+    "region": "Lab",
+    "category": [
+      "7 - Time Trials"
+    ],
+    "requires": "|Relic:20|"
+  },
+  {
+    "name": "Force of Nature Hidden Gem Above Nitroes",
+    "region": "Lab",
+    "category": [
+      "6 - Lab VR Hub"
+    ],
+    "requires": "|Relic:25|"
+  },
+  {
+    "name": "Force of Nature Box Gem",
+    "region": "Lab",
+    "category": [
+      "6 - Lab VR Hub"
+    ],
+    "requires": "|Relic:25|"
+  },
+  {
+    "name": "Force of Nature Time Trial",
+    "region": "Lab",
+    "category": [
+      "7 - Time Trials"
+    ],
+    "requires": "|Relic:25|"
+  }
+]

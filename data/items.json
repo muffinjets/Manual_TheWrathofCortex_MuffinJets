@@ -1,0 +1,56 @@
+[
+  {
+    "count": "25",
+    "name": "Power Crystal",
+    "category": [],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": "41",
+    "name": "Clear Gem",
+    "category": [],
+    "filler": true
+  },
+  {
+    "count": "30",
+    "name": "Relic",
+    "category": [],
+    "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Blue Colored Gem",
+    "category": [],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Green Colored Gem",
+    "category": [],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Purple Colored Gem",
+    "category": [],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Red Colored Gem",
+    "category": [],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Yellow Colored Gem",
+    "category": [],
+    "progression": true
+  },
+  {
+    "count": 5,
+    "name": "Yet Another Vehicle Gimmick",
+    "category": [],
+    "filler", true
+  }
+]

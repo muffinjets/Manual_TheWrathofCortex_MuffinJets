@@ -1,0 +1,36 @@
+{
+  "Earth": {
+    "connects_to": [
+      "Water",
+      "Lab"
+    ],
+    "starting": true,
+    "requires": []
+  },
+  "Water": {
+    "connects_to": [
+      "Fire"
+    ],
+    "requires": "|Power Crystal:5|"
+  },
+  "Fire": {
+    "connects_to": [
+      "Air"
+    ],
+    "requires": "|Power Crystal:10|"
+  },
+  "Air": {
+    "connects_to": [
+      "Space"
+    ],
+    "requires": "|Power Crystal:15|"
+  },
+  "Space": {
+    "connects_to": [],
+    "requires": "|Power Crystal:20|"
+  },
+  "Lab": {
+    "connects_to": [],
+    "requires": "|Power Crystal:25|"
+  }
+}
