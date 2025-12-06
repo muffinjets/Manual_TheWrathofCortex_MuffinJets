@@ -1,5 +1,6 @@
 # Object classes from AP that represent different types of options that you can create
-from Options import FreeText, NumericOption, Toggle, DefaultOnToggle, Choice, TextChoice, Range, NamedRange
+from typing import Any
+from Options import FreeText, NumericOption, Option, OptionGroup, Toggle, DefaultOnToggle, Choice, TextChoice, Range, NamedRange
 
 # These helper methods allow you to determine if an option has been set, or what its value is, for any player in the multiworld
 from ..Helpers import is_option_enabled, get_option_value
@@ -41,3 +42,10 @@ def before_options_defined(options: dict) -> dict:
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options
 def after_options_defined(options: dict) -> dict:
     return options
+
+def before_option_groups_created(groups: dict[str, list[type[Option[Any]]]]) -> dict[str, list[type[Option[Any]]]]:
+    return groups
+
+
+def after_option_groups_created(groups: list[OptionGroup]) -> list[OptionGroup]:
+    return groups
